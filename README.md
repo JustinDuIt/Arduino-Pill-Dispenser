@@ -1,7 +1,7 @@
 # Automated Pill Dispenser
 
 ## Overview
-An Arduino-based pill dispenser that uses a Force-Sensitive Resistor (FSR) and servo motor to manage medication scheduling with a musical alarm.
+An Arduino-based pill dispenser that uses a Force-Sensitive Resistor (FSR) and servo motor to manage medication scheduling with a musical alarm. Here is the link to the website: https://epbmimbo1hftzsni.vercel.app/.
 
 ## Features
 - Alarm triggers every 12 hours
